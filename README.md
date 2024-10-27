@@ -6,7 +6,7 @@ This Repo contains all code used to create the model. I have also written an art
 
 ### Medium Article
 
-Please refer to my Medium Article which covers more information about tjStuff+.
+Please refer to my [Medium Article](https://medium.com/@thomasjamesnestico/modelling-tjstuff-v3-0-10b48294c7fb) which covers more information about tjStuff+.
 
 ### Streamlit App
 
